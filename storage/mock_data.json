@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "username": "user1",
+      "password": "pass1",
+      "role": "user"
+    }
+  ],
+  "todos": [
+    {
+      "id": "36557f4e-56ab-43df-bcec-1e84a98b5908",
+      "name": "Projeyi tamamla",
+      "created_at": "2025-05-04T18:39:12.7028268+03:00",
+      "updated_at": "2025-05-04T18:42:16.2206453+03:00",
+      "deleted_at": "2025-05-04T18:50:30.0102761+03:00",
+      "username": "",
+      "percent": 0
+    },
+    {
+      "id": "babd7483-7b25-434b-8c70-4e62fb713e87",
+      "name": "Projeyi bitir",
+      "created_at": "2025-05-04T19:06:44.6769282+03:00",
+      "updated_at": "2025-05-04T19:06:44.6769282+03:00",
+      "deleted_at": "2025-05-04T19:11:18.752637+03:00",
+      "username": "",
+      "percent": 0
+    },
+    {
+      "id": "f0afe7ef-200c-4b25-bec9-a417078df825",
+      "name": "Projeyi bitir",
+      "created_at": "2025-05-04T19:21:14.0287324+03:00",
+      "updated_at": "2025-05-04T19:21:14.0287324+03:00",
+      "username": "",
+      "percent": 0
+    },
+    {
+      "id": "ef2d15e8-952f-4f26-b47b-e7b5c35f54ea",
+      "name": "Alışveriş Listesi",
+      "created_at": "2025-05-05T01:11:52.8056023+03:00",
+      "updated_at": "2025-05-05T01:11:52.8056023+03:00",
+      "username": "user1",
+      "percent": 0
+    }
+  ],
+  "steps": [
+    {
+      "id": "1c2537fe-f07b-4d84-9fc2-862b4e958c23",
+      "todo_id": "1e7fdca0-da57-4974-809c-61e08c4856b2",
+      "created_at": "2025-05-05T01:11:59.3625117+03:00",
+      "updated_at": "2025-05-05T01:11:59.3625117+03:00",
+      "content": "İlk adım",
+      "done": false
+    }
+  ]
+}
